@@ -66,8 +66,7 @@ Step 3: Retrieve relevant IT support documents
 - Search the vector database using similarity matching
 - Fetch top-k most relevant documents
 
-Step 4: Validate retrieved context
-IF relevant documents are found:
+Step 4: IF relevant documents are found:
     - Combine retrieved documents into a single context
 
 Step 5: Generate response using a Language Model
